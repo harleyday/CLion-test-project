@@ -7,8 +7,6 @@
 
 class string;
 
-class string;
-
 // create a new class called Person
 class Person {
 // public variables and functions

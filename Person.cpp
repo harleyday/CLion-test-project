@@ -14,7 +14,7 @@ Person::Person() {
 // define the setName() function in the Person class
 void Person::setName(std::string userName) {
     // set the name variable in the Person class to the given argument userName
-    name = userNames;
+    name = userName;
 }
 
 // define the setAge() function in the Person class

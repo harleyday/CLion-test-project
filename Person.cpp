@@ -4,7 +4,7 @@
 #include <string>
 #include "Person.h"
 
-class string;
+class Person;
 
 // define the class constructor
 Person::Person() {

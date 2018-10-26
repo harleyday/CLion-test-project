@@ -9,6 +9,8 @@ class Person;
 // define the class constructor
 Person::Person() {
     // initialize some variables...
+    name = "default name";
+    age = 23;
 }
 
 // define the setName() function in the Person class

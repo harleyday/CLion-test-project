@@ -16,4 +16,9 @@ int main(void) {
 
     // display bob's age
     std::cout << bob.name << " is " << bob.age << " years old." << std::endl;
+
+    Person steve;
+
+    // display steves's age
+    std::cout << steve.name << " is " << steve.age << " years old." << std::endl;
 }
